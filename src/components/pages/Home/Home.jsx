@@ -31,7 +31,13 @@ const Home = () => {
                 <TitleCards/>
             </div>
         </div>
-        
+        <div className="more-cards">
+            <TitleCards/>
+             <TitleCards/>
+              <TitleCards/>
+               <TitleCards/>
+               
+        </div>
       
     </div>
   )
