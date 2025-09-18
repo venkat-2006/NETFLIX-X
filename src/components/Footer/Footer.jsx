@@ -14,6 +14,24 @@ const Footer = () => {
           <img src={facebook_icon} alt="" />
            <img src={instagram_icon} alt="" />
       </div>
+      <ul>
+        <li>Audio Description</li>
+        <li>Help Centre</li>
+        <li>Gift Cards</li>
+        <li>Media Centre</li>
+        <li>Investor Relations</li>
+        <li>Jobs</li>
+        <li>Terms & Conditions</li>
+        <li>Privacy</li>
+        <li>Legal Notices</li>
+        <li>Cookie Preference</li>
+        <li>Corporate Info</li>
+        <li>Contact Us</li>
+      </ul>
+      <p className='copyright-text'>
+        © 2025 Netflix-X All rights reserved.
+
+      </p>
       
     </div>
   )
